@@ -1,0 +1,15 @@
+.feed{
+    background-color: rgb(14, 0, 49);
+    position: absolute;
+    top:95px;
+    right:0;
+    left:170px;
+    height:100%;
+    border-radius: 10px;
+}
+@media (max-width:767px){
+    .feed{
+        left:0;
+        top:65px;
+    }
+}

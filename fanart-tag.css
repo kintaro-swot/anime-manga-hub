@@ -1,0 +1,34 @@
+.art-banner img{
+    width:100%;
+}
+
+.acount-cotainer{
+    color:white;
+    border:1px solid white;
+    padding:10px;
+    border-radius: 7px;
+    margin:20px 10px;
+}
+.art-profile-img{
+    margin-right: 20px;
+}
+.art-profile-img img{
+    width:50px;
+}
+.art-acount-container{
+    display: flex;
+    align-items: center;
+}
+.art-profile-name{
+    margin-right:10px;
+}
+.art-profile-upload-date{
+    color:gray;
+}
+.profile-art-img{
+    text-align: center;
+}
+.profile-art-img img{
+    width:70%;
+    max-width: 350px;
+}

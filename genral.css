@@ -1,0 +1,11 @@
+/* font and margin  */
+*{
+    margin:0;
+    font-family: tahoma;
+    text-decoration: none;
+}
+/* background color  */
+html{
+        background-color: rgb(22, 1, 53);
+        display: flex;
+}

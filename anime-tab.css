@@ -1,0 +1,65 @@
+
+.heading p{
+    color:rgb(191, 88, 255);
+    font-weight: bold;
+    margin-bottom:10px;
+    font-size: 20px;
+    margin-left:20px ;
+}
+.anime-feed hr,.manga-feed hr{
+    border:1px solid rgb(191, 88, 255);
+    margin-bottom: 10px;
+}
+.poster-container{
+    border:1px solid white;
+    display: inline-block;
+    padding:10px;
+    border-radius: 10px;
+    margin:5px;
+    width:170px;
+    vertical-align: top;
+}
+.poster-img img{
+    width:150px;
+    border-radius: 5px;
+}
+@media (max-width:767px){
+    .poster-container{
+        width:130px;
+    }
+    .poster-img img{
+        width:100%;
+    }
+    .poster-name{
+        font-size: 15px;
+    }
+
+}
+.poster-name{
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.postre-rating{
+    color:yellow;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+.categry p{
+    display: inline;
+    color:rgba(255, 255, 255, 0.693);
+    font-size: 12px;
+    background-color: rgba(154, 154, 154, 0.443);
+    padding: 3px;
+    border-radius: 3px;
+    margin:5px 5px;
+    line-height: 25px;
+}
+.categry{
+    margin:7px;
+}
+.anime-feed{
+    text-align: center;
+    vertical-align: top;
+}

@@ -1,0 +1,39 @@
+.img-width-100{
+    width:100%;
+    max-height: 500px;
+    object-fit:contain;
+}
+.content-details{
+    color:white;
+    margin:20px;
+}
+.headings{
+    font-size:20px;
+    font-weight: bold;
+    color:white;
+    margin:5px;
+}
+.content-border{
+    border:1px solid white;
+    margin:20px 5px;
+    border-radius: 10px;
+}
+.commnet-container{
+    color:white;
+    border:1px solid white;
+    margin:20px 5px;
+    border-radius: 10px;
+    padding:15px;
+}
+.profile-img img{
+    width:50px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+.profile-img{
+    display: flex;
+    align-items: center;
+}
+.profile-img p{
+    font-size: 25px;
+}
