@@ -55,13 +55,3 @@
         height:100px;
     }
 }
-@media (max-width:534px){
-.sidebar{
-    font-size: 10px;
-}
-.menu-buttons{
-    margin: 0;
-    
-}
-
-}
