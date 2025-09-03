@@ -49,13 +49,14 @@
         display: flex;
         flex-direction: column;
         flex-shrink: 10px;
-        font-size: 17px;
+        font-size: 22px;
     }
     .footer-bar{
         width:100%;
         height:100px;
     }
 }
+
 
 
 
